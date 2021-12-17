@@ -1,1 +1,3 @@
-# tic-tac-toe
+# tic-tac-toe 
+# minimax
+# java
